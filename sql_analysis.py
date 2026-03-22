@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-INPUT_FILE = "sample_data.csv"
+INPUT_FILE = "/sample_data.csv"
 
 
 def load_data(file_path):
